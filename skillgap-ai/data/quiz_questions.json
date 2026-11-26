@@ -1,0 +1,142 @@
+[
+  {
+    "id": "q-1",
+    "category": "Technical",
+    "skill": "Python",
+    "question": "In Python, what is the time complexity of looking up a key in a dictionary on average?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "correct_index": 0,
+    "explanation": "Python dictionaries are implemented using hash tables, providing average O(1) time complexity for lookups."
+  },
+  {
+    "id": "q-2",
+    "category": "Technical",
+    "skill": "SQL",
+    "question": "Which SQL clause is used to filter the results of an aggregate function (e.g., COUNT, SUM)?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "GROUP BY",
+      "ORDER BY"
+    ],
+    "correct_index": 1,
+    "explanation": "The HAVING clause filters groups created by GROUP BY based on aggregate functions, whereas WHERE filters individual rows before aggregation."
+  },
+  {
+    "id": "q-3",
+    "category": "Technical",
+    "skill": "Data Analysis",
+    "question": "Which metric is best suited to describe the central tendency of a dataset with extreme outliers?",
+    "options": [
+      "Mean",
+      "Median",
+      "Standard Deviation",
+      "Variance"
+    ],
+    "correct_index": 1,
+    "explanation": "The median is robust against outliers because it is the middle value, whereas the mean is pulled heavily by extreme values."
+  },
+  {
+    "id": "q-4",
+    "category": "Technical",
+    "skill": "Machine Learning",
+    "question": "Which technique is primarily used to prevent overfitting in a machine learning model?",
+    "options": [
+      "Regularization (L1/L2)",
+      "Increasing model parameters",
+      "Removing test data",
+      "Removing early stopping"
+    ],
+    "correct_index": 0,
+    "explanation": "Regularization (L1 Lasso or L2 Ridge) penalizes large weights to prevent the model from fitting training noise."
+  },
+  {
+    "id": "q-5",
+    "category": "Technical",
+    "skill": "Power BI & Excel",
+    "question": "In Power BI, which language is primarily used for creating custom calculations, measures, and calculated columns?",
+    "options": [
+      "M Language",
+      "DAX (Data Analysis Expressions)",
+      "R",
+      "VBA"
+    ],
+    "correct_index": 1,
+    "explanation": "DAX (Data Analysis Expressions) is used in Power BI and Power Pivot for dynamic analytical calculations."
+  },
+  {
+    "id": "q-6",
+    "category": "Aptitude",
+    "skill": "Logical Reasoning",
+    "question": "If a machine produces 120 widgets in 15 minutes, how many widgets will it produce in 2.5 hours at the same rate?",
+    "options": [
+      "1,000",
+      "1,200",
+      "1,500",
+      "1,800"
+    ],
+    "correct_index": 1,
+    "explanation": "Rate = 120 / 15 = 8 widgets per minute. 2.5 hours = 150 minutes. Total = 8 * 150 = 1,200 widgets."
+  },
+  {
+    "id": "q-7",
+    "category": "Aptitude",
+    "skill": "Data Interpretation",
+    "question": "Company revenue grew from ,000 to ,000. What is the percentage increase?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "50%"
+    ],
+    "correct_index": 1,
+    "explanation": "Percentage increase = ((250,000 - 200,000) / 200,000) * 100 = 25%."
+  },
+  {
+    "id": "q-8",
+    "category": "Aptitude",
+    "skill": "Analytical Thinking",
+    "question": "If all Developers are Problem Solvers, and some Problem Solvers are Designers, which statement is definitely true?",
+    "options": [
+      "All Designers are Developers",
+      "Some Problem Solvers are Developers",
+      "No Designer is a Developer",
+      "All Problem Solvers are Developers"
+    ],
+    "correct_index": 1,
+    "explanation": "Since all Developers belong to the set of Problem Solvers, at least some Problem Solvers are Developers."
+  },
+  {
+    "id": "q-9",
+    "category": "Soft Skills",
+    "skill": "Team Collaboration",
+    "question": "During sprint review, a colleague presents a feature with a noticeable logic flaw. What is the most constructive response?",
+    "options": [
+      "Call out the flaw immediately in front of stakeholders to protect project quality.",
+      "Ask clarifying questions respectfully and offer to pair afterwards to review edge cases.",
+      "Ignore the issue since it is not your assigned ticket.",
+      "Email the project manager privately complaining about their work."
+    ],
+    "correct_index": 1,
+    "explanation": "Asking constructive questions and offering collaborative pairing fosters psychological safety and team trust while catching defects."
+  },
+  {
+    "id": "q-10",
+    "category": "Soft Skills",
+    "skill": "Communication",
+    "question": "When communicating technical findings to executive business stakeholders, what is the best strategy?",
+    "options": [
+      "Explain every statistical equation and matrix algebra derivation step-by-step.",
+      "Focus on business impact, ROI, key insights, and actionable recommendations using clear visual charts.",
+      "Use dense terminal logs to prove accuracy.",
+      "Send a raw CSV dataset without annotations."
+    ],
+    "correct_index": 1,
+    "explanation": "Executives prioritize strategic business impact, actionable takeaways, and clear visualizations over raw implementation minutiae."
+  }
+]

@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "category": "Data & AI",
+    "short_description": "Transform data into actionable insights, dashboards, and strategic business recommendations.",
+    "match_rate_baseline": 0.85,
+    "total_skills_required": 20,
+    "demand_level": "High",
+    "avg_salary": ",000 - ,000",
+    "required_skills": [
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Programming"
+      },
+      {
+        "name": "SQL",
+        "level": "Intermediate",
+        "importance": 0.95,
+        "category": "Databases"
+      },
+      {
+        "name": "Excel",
+        "level": "Intermediate",
+        "importance": 0.95,
+        "category": "Data Tools"
+      },
+      {
+        "name": "Power BI",
+        "level": "Intermediate",
+        "importance": 0.9,
+        "category": "Visualization"
+      },
+      {
+        "name": "Statistics",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Mathematics"
+      },
+      {
+        "name": "Tableau",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Visualization"
+      },
+      {
+        "name": "Data Cleaning",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Data Processing"
+      },
+      {
+        "name": "Pandas",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Libraries"
+      },
+      {
+        "name": "NumPy",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Libraries"
+      },
+      {
+        "name": "Data Storytelling",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Business Acumen",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Critical Thinking",
+        "level": "Advanced",
+        "importance": 0.8,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "ETL Processes",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Data Engineering"
+      },
+      {
+        "name": "A/B Testing",
+        "level": "Beginner",
+        "importance": 0.65,
+        "category": "Analytics"
+      },
+      {
+        "name": "Data Modeling",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Databases"
+      },
+      {
+        "name": "Git",
+        "level": "Beginner",
+        "importance": 0.6,
+        "category": "Tools"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "R",
+        "level": "Beginner",
+        "importance": 0.55,
+        "category": "Programming"
+      },
+      {
+        "name": "Data Visualization",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Visualization"
+      },
+      {
+        "name": "Communication",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Soft Skills"
+      }
+    ],
+    "default_roadmap": [
+      {
+        "step": 1,
+        "title": "Excel Basics",
+        "level": "Beginner",
+        "duration": "10 hrs",
+        "icon": "table",
+        "topics": [
+          "Formulas & VLOOKUP",
+          "Pivot Tables",
+          "Data Cleaning",
+          "Conditional Formatting"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Power BI",
+        "level": "Beginner",
+        "duration": "15 hrs",
+        "icon": "bar-chart-2",
+        "topics": [
+          "Data Modeling",
+          "DAX Essentials",
+          "Interactive Visuals",
+          "Power Query"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Statistics",
+        "level": "Intermediate",
+        "duration": "12 hrs",
+        "icon": "trending-up",
+        "topics": [
+          "Descriptive & Inferential Stats",
+          "Hypothesis Testing",
+          "Probability",
+          "Variance Analysis"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Advanced Data Analysis",
+        "level": "Advanced",
+        "duration": "20 hrs",
+        "icon": "pie-chart",
+        "topics": [
+          "Python with Pandas & NumPy",
+          "SQL Complex Joins",
+          "Executive Reporting",
+          "End-to-End Capstone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "python-developer",
+    "title": "Python Developer",
+    "category": "Software Engineering",
+    "short_description": "Build scalable server-side systems, web microservices, and automation pipelines with Python.",
+    "match_rate_baseline": 0.82,
+    "total_skills_required": 18,
+    "demand_level": "High",
+    "avg_salary": ",000 - ,000",
+    "required_skills": [
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "importance": 0.98,
+        "category": "Programming"
+      },
+      {
+        "name": "FastAPI / Flask / Django",
+        "level": "Intermediate",
+        "importance": 0.9,
+        "category": "Web Frameworks"
+      },
+      {
+        "name": "RESTful APIs",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Architecture"
+      },
+      {
+        "name": "SQL",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Databases"
+      },
+      {
+        "name": "Git",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Version Control"
+      },
+      {
+        "name": "Object-Oriented Programming",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Software Design"
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "CS Fundamentals"
+      },
+      {
+        "name": "Docker",
+        "level": "Beginner",
+        "importance": 0.75,
+        "category": "DevOps"
+      },
+      {
+        "name": "PostgreSQL / MySQL",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Databases"
+      },
+      {
+        "name": "Unit Testing & Pytest",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Testing"
+      },
+      {
+        "name": "AsyncIO & Multithreading",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Programming"
+      },
+      {
+        "name": "Redis & Caching",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Databases"
+      },
+      {
+        "name": "Linux / Bash",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "OS"
+      },
+      {
+        "name": "API Security & JWT",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Security"
+      },
+      {
+        "name": "CI/CD Basics",
+        "level": "Beginner",
+        "importance": 0.65,
+        "category": "DevOps"
+      },
+      {
+        "name": "Code Optimization",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Engineering"
+      },
+      {
+        "name": "Debugging",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Problem Solving"
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Soft Skills"
+      }
+    ],
+    "default_roadmap": [
+      {
+        "step": 1,
+        "title": "Python OOP & Idiomatic Patterns",
+        "level": "Beginner",
+        "duration": "15 hrs",
+        "icon": "terminal",
+        "topics": [
+          "Classes, Protocols, Dunder Methods",
+          "Generators & Decorators",
+          "Type Annotations",
+          "Unit Testing"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "FastAPI & Modern Web APIs",
+        "level": "Intermediate",
+        "duration": "20 hrs",
+        "icon": "code",
+        "topics": [
+          "Path/Query params & Pydantic",
+          "Dependency Injection",
+          "JWT Authentication",
+          "OpenAPI Documentation"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "SQLAlchemy & Database Modeling",
+        "level": "Intermediate",
+        "duration": "18 hrs",
+        "icon": "database",
+        "topics": [
+          "Async Sessions",
+          "Relationships & Joins",
+          "Migrations with Alembic",
+          "Query Optimization"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Production Deployment & Microservices",
+        "level": "Advanced",
+        "duration": "22 hrs",
+        "icon": "box",
+        "topics": [
+          "Docker Containerization",
+          "Redis Caching & Celery",
+          "CI/CD Pipelines",
+          "Cloud Deployment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist",
+    "category": "Data & AI",
+    "short_description": "Harness machine learning, deep learning, and advanced statistical models to solve complex predictive problems.",
+    "match_rate_baseline": 0.68,
+    "total_skills_required": 22,
+    "demand_level": "Very High",
+    "avg_salary": ",000 - ,000",
+    "required_skills": [
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "Programming"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "AI/ML"
+      },
+      {
+        "name": "Deep Learning",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "AI/ML"
+      },
+      {
+        "name": "SQL",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Databases"
+      },
+      {
+        "name": "Statistics",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "Mathematics"
+      },
+      {
+        "name": "Data Visualization",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Visualization"
+      },
+      {
+        "name": "Pandas",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Libraries"
+      },
+      {
+        "name": "NumPy",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Libraries"
+      },
+      {
+        "name": "Scikit-Learn",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "AI/ML"
+      },
+      {
+        "name": "Feature Engineering",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "AI/ML"
+      },
+      {
+        "name": "Linear Algebra",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Mathematics"
+      },
+      {
+        "name": "NLP",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "AI/ML"
+      },
+      {
+        "name": "TensorFlow / PyTorch",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "AI/ML"
+      },
+      {
+        "name": "Model Evaluation & Deployment",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "MLOps"
+      },
+      {
+        "name": "Git",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Tools"
+      },
+      {
+        "name": "Hypothesis Testing",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Mathematics"
+      },
+      {
+        "name": "Big Data (Spark/Hadoop)",
+        "level": "Beginner",
+        "importance": 0.65,
+        "category": "Data Engineering"
+      },
+      {
+        "name": "Cloud AI (AWS/GCP)",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Cloud"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Business Understanding",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Research & Experimentation",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Methodology"
+      }
+    ],
+    "default_roadmap": [
+      {
+        "step": 1,
+        "title": "Python & Mathematics for ML",
+        "level": "Beginner",
+        "duration": "20 hrs",
+        "icon": "terminal",
+        "topics": [
+          "Matrix Math & Calculus",
+          "Descriptive & Inferential Stats",
+          "NumPy Vectorized Ops",
+          "Pandas EDA"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Scikit-Learn & Classical ML",
+        "level": "Intermediate",
+        "duration": "25 hrs",
+        "icon": "cpu",
+        "topics": [
+          "Regression, Trees, SVM",
+          "Cross-Validation & GridSearch",
+          "Feature Encoders & Imputation",
+          "ROC-AUC & F1-Score"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Deep Learning with PyTorch",
+        "level": "Intermediate",
+        "duration": "30 hrs",
+        "icon": "zap",
+        "topics": [
+          "Neural Net Fundamentals",
+          "Loss Functions & Optimizers",
+          "Transfer Learning",
+          "Computer Vision / NLP"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Model Deployment & Production",
+        "level": "Advanced",
+        "duration": "30 hrs",
+        "icon": "server",
+        "topics": [
+          "FastAPI Model Endpoints",
+          "Dockerizing ML Services",
+          "Monitoring & Drift Detection",
+          "Portfolio Project"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "machine-learning-engineer",
+    "title": "Machine Learning Engineer",
+    "category": "Data & AI",
+    "short_description": "Design, train, optimize, and deploy production-scale ML systems and inference pipelines.",
+    "match_rate_baseline": 0.6,
+    "total_skills_required": 22,
+    "demand_level": "Very High",
+    "avg_salary": ",000 - ,000",
+    "required_skills": [
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "Programming"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "AI/ML"
+      },
+      {
+        "name": "Deep Learning",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "AI/ML"
+      },
+      {
+        "name": "PyTorch / TensorFlow",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Frameworks"
+      },
+      {
+        "name": "MLOps",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Engineering"
+      },
+      {
+        "name": "Docker & Kubernetes",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "DevOps"
+      },
+      {
+        "name": "Model Deployment (FastAPI/Triton)",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Engineering"
+      },
+      {
+        "name": "Scikit-Learn",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "AI/ML"
+      },
+      {
+        "name": "Feature Store & Data Pipelines",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Data Engineering"
+      },
+      {
+        "name": "Git & CI/CD",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "DevOps"
+      },
+      {
+        "name": "Math & Optimization",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Mathematics"
+      },
+      {
+        "name": "Cloud ML (AWS SageMaker/GCP Vertex)",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Cloud"
+      },
+      {
+        "name": "Vector Databases & Embeddings",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "AI/ML"
+      },
+      {
+        "name": "SQL",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Databases"
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "CS Fundamentals"
+      },
+      {
+        "name": "Distributed Training",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "AI/ML"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "System Design",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Architecture"
+      },
+      {
+        "name": "Linux",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "OS"
+      },
+      {
+        "name": "Pandas & NumPy",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Libraries"
+      },
+      {
+        "name": "Model Monitoring",
+        "level": "Beginner",
+        "importance": 0.75,
+        "category": "MLOps"
+      },
+      {
+        "name": "Communication",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Soft Skills"
+      }
+    ],
+    "default_roadmap": [
+      {
+        "step": 1,
+        "title": "Applied ML Algorithms & Vector Math",
+        "level": "Beginner",
+        "duration": "20 hrs",
+        "icon": "cpu",
+        "topics": [
+          "Ensemble Methods",
+          "Regularization Techniques",
+          "Gradient Descent Mechanics",
+          "NumPy Benchmarks"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Deep Neural Networks in PyTorch",
+        "level": "Intermediate",
+        "duration": "30 hrs",
+        "icon": "activity",
+        "topics": [
+          "Custom Layers & Datasets",
+          "GPU Acceleration (CUDA)",
+          "Pretrained Embeddings",
+          "Transformer Architectures"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Production Pipelines & MLOps",
+        "level": "Intermediate",
+        "duration": "30 hrs",
+        "icon": "server",
+        "topics": [
+          "MLflow Experiment Tracking",
+          "DVC for Data Versioning",
+          "Containerizing Model Serving",
+          "CI/CD Automation"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Distributed ML & Real-Time Inference",
+        "level": "Advanced",
+        "duration": "35 hrs",
+        "icon": "zap",
+        "topics": [
+          "Kubernetes Deployments",
+          "ONNX Runtime & TensorRT",
+          "Kafka Stream Ingestion",
+          "Model Drift Monitoring"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "category": "Software Engineering",
+    "short_description": "Craft end-to-end web experiences combining responsive frontends, sturdy APIs, and scalable databases.",
+    "match_rate_baseline": 0.75,
+    "total_skills_required": 20,
+    "demand_level": "High",
+    "avg_salary": ",000 - ,000",
+    "required_skills": [
+      {
+        "name": "JavaScript",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "Frontend"
+      },
+      {
+        "name": "React",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Frontend"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Frontend"
+      },
+      {
+        "name": "Node.js / Express / Python",
+        "level": "Intermediate",
+        "importance": 0.9,
+        "category": "Backend"
+      },
+      {
+        "name": "SQL & Relational DBs",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Databases"
+      },
+      {
+        "name": "Git & GitHub",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Tools"
+      },
+      {
+        "name": "RESTful APIs",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Backend"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Frontend"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Frontend"
+      },
+      {
+        "name": "Authentication & OAuth",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Security"
+      },
+      {
+        "name": "State Management",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Frontend"
+      },
+      {
+        "name": "Docker Basics",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "DevOps"
+      },
+      {
+        "name": "CI/CD & Cloud Hosting",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "DevOps"
+      },
+      {
+        "name": "Web Performance",
+        "level": "Intermediate",
+        "importance": 0.7,
+        "category": "Frontend"
+      },
+      {
+        "name": "Unit Testing",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Testing"
+      },
+      {
+        "name": "Responsive UI Design",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Frontend"
+      },
+      {
+        "name": "System Architecture",
+        "level": "Beginner",
+        "importance": 0.75,
+        "category": "Architecture"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "MongoDB / NoSQL",
+        "level": "Beginner",
+        "importance": 0.75,
+        "category": "Databases"
+      },
+      {
+        "name": "Agile / Scrum",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Methodology"
+      }
+    ],
+    "default_roadmap": [
+      {
+        "step": 1,
+        "title": "Modern JavaScript & UI Basics",
+        "level": "Beginner",
+        "duration": "20 hrs",
+        "icon": "layout",
+        "topics": [
+          "ES6+ Syntax",
+          "DOM Manipulation",
+          "Async Programming",
+          "Tailwind Responsive Design"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "React.js Component Architecture",
+        "level": "Intermediate",
+        "duration": "25 hrs",
+        "icon": "code",
+        "topics": [
+          "State & Hooks",
+          "React Router",
+          "Form Handling",
+          "Context & State Management"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Backend REST APIs & Databases",
+        "level": "Intermediate",
+        "duration": "25 hrs",
+        "icon": "server",
+        "topics": [
+          "FastAPI or Express",
+          "PostgreSQL & ORM",
+          "JWT Authentication",
+          "CRUD Patterns"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Full Stack Capstone & Deployment",
+        "level": "Advanced",
+        "duration": "25 hrs",
+        "icon": "globe",
+        "topics": [
+          "Docker Containerization",
+          "Vercel / Render Deployment",
+          "Automated Testing",
+          "End-to-End Security"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cloud-devops-engineer",
+    "title": "Cloud & DevOps Engineer",
+    "category": "Cloud & Infrastructure",
+    "short_description": "Automate infrastructure, maintain scalable cloud clusters, and implement seamless CI/CD delivery pipelines.",
+    "match_rate_baseline": 0.55,
+    "total_skills_required": 18,
+    "demand_level": "Very High",
+    "avg_salary": ",000 - ,000",
+    "required_skills": [
+      {
+        "name": "Linux / Shell Scripting",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "OS"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "Containers"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Intermediate",
+        "importance": 0.9,
+        "category": "Orchestration"
+      },
+      {
+        "name": "AWS / GCP / Azure",
+        "level": "Intermediate",
+        "importance": 0.9,
+        "category": "Cloud"
+      },
+      {
+        "name": "CI/CD (GitHub Actions / Jenkins)",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "Automation"
+      },
+      {
+        "name": "Terraform (IaC)",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Infrastructure"
+      },
+      {
+        "name": "Git",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Tools"
+      },
+      {
+        "name": "Python / Bash",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Scripting"
+      },
+      {
+        "name": "Networking & DNS",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Networking"
+      },
+      {
+        "name": "Monitoring (Prometheus/Grafana)",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Observability"
+      },
+      {
+        "name": "Security & IAM",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Security"
+      },
+      {
+        "name": "Ansible",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Config Mgmt"
+      },
+      {
+        "name": "Microservices Architecture",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Architecture"
+      },
+      {
+        "name": "Troubleshooting",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Problem Solving"
+      },
+      {
+        "name": "Collaboration",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Agile",
+        "level": "Intermediate",
+        "importance": 0.7,
+        "category": "Methodology"
+      },
+      {
+        "name": "Cost Optimization",
+        "level": "Beginner",
+        "importance": 0.65,
+        "category": "Cloud"
+      },
+      {
+        "name": "Database Administration",
+        "level": "Beginner",
+        "importance": 0.65,
+        "category": "Databases"
+      }
+    ],
+    "default_roadmap": [
+      {
+        "step": 1,
+        "title": "Linux & Shell Mastery",
+        "level": "Beginner",
+        "duration": "15 hrs",
+        "icon": "terminal",
+        "topics": [
+          "Bash Scripting",
+          "SSH & Permissions",
+          "Process Control",
+          "Cron & Systemd"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Containerization & Networking",
+        "level": "Intermediate",
+        "duration": "20 hrs",
+        "icon": "box",
+        "topics": [
+          "Dockerfiles",
+          "Docker Compose",
+          "Virtual Networks",
+          "Port Mapping"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Cloud & Infrastructure as Code",
+        "level": "Intermediate",
+        "duration": "25 hrs",
+        "icon": "cloud",
+        "topics": [
+          "AWS Core (EC2/S3/VPC)",
+          "Terraform Modules",
+          "GitHub Actions CI/CD",
+          "IAM Roles"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "Kubernetes & Observability",
+        "level": "Advanced",
+        "duration": "30 hrs",
+        "icon": "shield",
+        "topics": [
+          "K8s Deployments & Services",
+          "Helm Packaging",
+          "Prometheus Metrics",
+          "Grafana Dashboards"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cybersecurity-analyst",
+    "title": "Cybersecurity Analyst",
+    "category": "Security",
+    "short_description": "Protect digital infrastructure, investigate security incidents, and conduct vulnerability assessments.",
+    "match_rate_baseline": 0.5,
+    "total_skills_required": 18,
+    "demand_level": "Very High",
+    "avg_salary": ",000 - ,000",
+    "required_skills": [
+      {
+        "name": "Networking Protocols (TCP/IP, DNS)",
+        "level": "Advanced",
+        "importance": 0.95,
+        "category": "Networking"
+      },
+      {
+        "name": "Linux Security & Administration",
+        "level": "Advanced",
+        "importance": 0.9,
+        "category": "OS"
+      },
+      {
+        "name": "Vulnerability Assessment",
+        "level": "Intermediate",
+        "importance": 0.9,
+        "category": "Security"
+      },
+      {
+        "name": "SIEM Tools (Splunk / Elastic)",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Monitoring"
+      },
+      {
+        "name": "Penetration Testing Tools (Nmap, Wireshark)",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Tools"
+      },
+      {
+        "name": "Python / Bash Scripting",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Scripting"
+      },
+      {
+        "name": "Incident Response",
+        "level": "Intermediate",
+        "importance": 0.85,
+        "category": "Security"
+      },
+      {
+        "name": "Firewalls & IDS/IPS",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Infrastructure"
+      },
+      {
+        "name": "Cryptography Basics",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Security"
+      },
+      {
+        "name": "OWASP Top 10",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "AppSec"
+      },
+      {
+        "name": "Cloud Security Basics",
+        "level": "Beginner",
+        "importance": 0.75,
+        "category": "Cloud"
+      },
+      {
+        "name": "Security Compliance (ISO, SOC2)",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Governance"
+      },
+      {
+        "name": "Analytical Thinking",
+        "level": "Advanced",
+        "importance": 0.85,
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Ethical Hacking Concepts",
+        "level": "Intermediate",
+        "importance": 0.8,
+        "category": "Security"
+      },
+      {
+        "name": "Endpoint Protection",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Security"
+      },
+      {
+        "name": "Threat Intelligence",
+        "level": "Beginner",
+        "importance": 0.7,
+        "category": "Security"
+      },
+      {
+        "name": "Forensics Basics",
+        "level": "Beginner",
+        "importance": 0.65,
+        "category": "Security"
+      },
+      {
+        "name": "Technical Documentation",
+        "level": "Intermediate",
+        "importance": 0.75,
+        "category": "Soft Skills"
+      }
+    ],
+    "default_roadmap": [
+      {
+        "step": 1,
+        "title": "Networking & Packet Analysis",
+        "level": "Beginner",
+        "duration": "18 hrs",
+        "icon": "wifi",
+        "topics": [
+          "OSI 7 Layers",
+          "Wireshark Protocol Traces",
+          "Subnetting",
+          "Nmap Discovery"
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Linux Security & Hardening",
+        "level": "Intermediate",
+        "duration": "20 hrs",
+        "icon": "terminal",
+        "topics": [
+          "User Privileges & Sudo",
+          "IPTables & UFW",
+          "SSH Hardening",
+          "Auditd Logging"
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Web Security & OWASP Top 10",
+        "level": "Intermediate",
+        "duration": "25 hrs",
+        "icon": "shield",
+        "topics": [
+          "SQL Injection Lab",
+          "Cross-Site Scripting (XSS)",
+          "CSRF & Auth Bypass",
+          "Burp Suite"
+        ]
+      },
+      {
+        "step": 4,
+        "title": "SIEM Detection & Incident Response",
+        "level": "Advanced",
+        "duration": "25 hrs",
+        "icon": "activity",
+        "topics": [
+          "Splunk Search Processing Language",
+          "Correlation Rules",
+          "Incident Playbooks",
+          "Forensic Artifacts"
+        ]
+      }
+    ]
+  }
+]

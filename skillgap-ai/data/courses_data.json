@@ -1,0 +1,182 @@
+[
+  {
+    "id": "c-1",
+    "title": "Excel for Data Analysis",
+    "provider": "Coursera",
+    "rating": 4.6,
+    "reviews_count": 38200,
+    "level": "Beginner",
+    "duration": "14 hrs",
+    "category": "Data Tools",
+    "skills": [
+      "Excel",
+      "Pivot Tables",
+      "Data Cleaning",
+      "VLOOKUP"
+    ],
+    "url": "https://www.coursera.org/learn/excel-data-analysis",
+    "image_icon": "excel"
+  },
+  {
+    "id": "c-2",
+    "title": "Power BI Crash Course",
+    "provider": "Udemy",
+    "rating": 4.5,
+    "reviews_count": 29400,
+    "level": "Beginner",
+    "duration": "16 hrs",
+    "category": "Visualization",
+    "skills": [
+      "Power BI",
+      "Data Modeling",
+      "DAX",
+      "Dashboards"
+    ],
+    "url": "https://www.udemy.com/course/powerbi-complete-guide",
+    "image_icon": "powerbi"
+  },
+  {
+    "id": "c-3",
+    "title": "Statistics for Data Science",
+    "provider": "Coursera",
+    "rating": 4.7,
+    "reviews_count": 51200,
+    "level": "Intermediate",
+    "duration": "22 hrs",
+    "category": "Mathematics",
+    "skills": [
+      "Statistics",
+      "Probability",
+      "Hypothesis Testing",
+      "A/B Testing"
+    ],
+    "url": "https://www.coursera.org/learn/statistics-data-science",
+    "image_icon": "stats"
+  },
+  {
+    "id": "c-4",
+    "title": "Data Analysis with Python",
+    "provider": "Udemy",
+    "rating": 4.6,
+    "reviews_count": 44000,
+    "level": "Intermediate",
+    "duration": "20 hrs",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Data Visualization"
+    ],
+    "url": "https://www.udemy.com/course/python-for-data-analysis",
+    "image_icon": "python"
+  },
+  {
+    "id": "c-5",
+    "title": "The Complete SQL Bootcamp: Go from Zero to Hero",
+    "provider": "Udemy",
+    "rating": 4.8,
+    "reviews_count": 82000,
+    "level": "Beginner",
+    "duration": "18 hrs",
+    "category": "Databases",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Joins",
+      "Aggregations"
+    ],
+    "url": "https://www.udemy.com/course/the-complete-sql-bootcamp",
+    "image_icon": "database"
+  },
+  {
+    "id": "c-6",
+    "title": "Machine Learning Specialization by Andrew Ng",
+    "provider": "Coursera",
+    "rating": 4.9,
+    "reviews_count": 120000,
+    "level": "Intermediate",
+    "duration": "40 hrs",
+    "category": "AI/ML",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Scikit-Learn",
+      "Feature Engineering"
+    ],
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "image_icon": "cpu"
+  },
+  {
+    "id": "c-7",
+    "title": "Tableau 2024 A-Z: Hands-On Data Visualization",
+    "provider": "Udemy",
+    "rating": 4.6,
+    "reviews_count": 35000,
+    "level": "Intermediate",
+    "duration": "12 hrs",
+    "category": "Visualization",
+    "skills": [
+      "Tableau",
+      "Data Visualization",
+      "Data Storytelling"
+    ],
+    "url": "https://www.udemy.com/course/tableau10",
+    "image_icon": "chart"
+  },
+  {
+    "id": "c-8",
+    "title": "FastAPI - Modern Python Web APIs",
+    "provider": "Udemy",
+    "rating": 4.8,
+    "reviews_count": 16000,
+    "level": "Intermediate",
+    "duration": "15 hrs",
+    "category": "Web Frameworks",
+    "skills": [
+      "FastAPI",
+      "Python",
+      "RESTful APIs",
+      "JWT",
+      "SQLAlchemy"
+    ],
+    "url": "https://www.udemy.com/course/fastapi-the-complete-course",
+    "image_icon": "code"
+  },
+  {
+    "id": "c-9",
+    "title": "Docker and Kubernetes: The Complete Guide",
+    "provider": "Udemy",
+    "rating": 4.7,
+    "reviews_count": 67000,
+    "level": "Intermediate",
+    "duration": "24 hrs",
+    "category": "DevOps",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Containers"
+    ],
+    "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide",
+    "image_icon": "box"
+  },
+  {
+    "id": "c-10",
+    "title": "Deep Learning with PyTorch: Zero to Mastery",
+    "provider": "edX",
+    "rating": 4.7,
+    "reviews_count": 18000,
+    "level": "Advanced",
+    "duration": "35 hrs",
+    "category": "AI/ML",
+    "skills": [
+      "Deep Learning",
+      "PyTorch",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "url": "https://www.edx.org/course/deep-learning-pytorch",
+    "image_icon": "zap"
+  }
+]

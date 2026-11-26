@@ -1,0 +1,114 @@
+[
+  {
+    "id": "p-1",
+    "title": "Executive E-Commerce Sales & Profit Dashboard",
+    "target_roles": [
+      "data-analyst",
+      "python-developer"
+    ],
+    "difficulty": "Beginner",
+    "estimated_hours": 15,
+    "skills_covered": [
+      "Excel",
+      "Power BI",
+      "Data Cleaning",
+      "Data Storytelling"
+    ],
+    "summary": "Clean, transform, and model 500,000+ retail sales records into interactive executive dashboards tracking KPI margins, customer retention, and regional performance.",
+    "steps": [
+      "Extract raw transactional CSV datasets and perform cleaning in Excel/Power Query.",
+      "Construct a star schema data model linking sales, customers, and geography.",
+      "Formulate custom DAX measures for Year-over-Year (YoY) revenue and profit margins.",
+      "Design interactive Power BI visuals with drill-down filters and tooltips."
+    ],
+    "resume_bullets": [
+      "Engineered an interactive Power BI sales dashboard processing 500k+ records, providing C-level visibility into gross margins.",
+      "Standardized automated ETL workflows in Power Query, cutting weekly reporting time by 4 hours."
+    ]
+  },
+  {
+    "id": "p-2",
+    "title": "Customer Churn Prediction & Retention Engine",
+    "target_roles": [
+      "data-scientist",
+      "data-analyst",
+      "machine-learning-engineer"
+    ],
+    "difficulty": "Intermediate",
+    "estimated_hours": 25,
+    "skills_covered": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "summary": "Build an end-to-end predictive machine learning pipeline that forecasts subscriber churn with 88% ROC-AUC and highlights top risk factors using SHAP explainability.",
+    "steps": [
+      "Conduct exploratory data analysis (EDA) with Seaborn and Pandas on telecom customer telemetry.",
+      "Engineer predictive features: tenure bands, payment volatility, and support ticket velocity.",
+      "Train and tune Random Forest and XGBoost classifiers using stratified k-fold cross validation.",
+      "Deploy feature importance and SHAP summary plots for stakeholder actionability."
+    ],
+    "resume_bullets": [
+      "Developed a churn prediction model using Scikit-Learn achieving 0.88 ROC-AUC on 100k telecom customer records.",
+      "Identified top 5 churn risk indicators using SHAP values, enabling targeted retention strategies."
+    ]
+  },
+  {
+    "id": "p-3",
+    "title": "High-Throughput Microservice API with FastAPI & Redis",
+    "target_roles": [
+      "python-developer",
+      "full-stack-developer"
+    ],
+    "difficulty": "Intermediate",
+    "estimated_hours": 20,
+    "skills_covered": [
+      "Python",
+      "FastAPI",
+      "SQL",
+      "Docker",
+      "RESTful APIs"
+    ],
+    "summary": "Architect an asynchronous RESTful microservice handling user authentication, rate limiting, and cached queries capable of serving 2,500+ requests per second.",
+    "steps": [
+      "Define Pydantic schema validation and SQLAlchemy 2.0 async database models.",
+      "Implement OAuth2 JWT bearer token authentication with password hashing (bcrypt).",
+      "Integrate Redis caching layer to reduce database reads on hot query endpoints.",
+      "Package service into multi-stage Docker container with healthcheck monitoring."
+    ],
+    "resume_bullets": [
+      "Built an asynchronous REST API in FastAPI handling 2,500+ req/sec with sub-30ms latency.",
+      "Implemented Redis caching layer decreasing PostgreSQL read query loads by 65%."
+    ]
+  },
+  {
+    "id": "p-4",
+    "title": "Full-Stack Skill Gap & Learning Management Platform",
+    "target_roles": [
+      "full-stack-developer",
+      "python-developer"
+    ],
+    "difficulty": "Advanced",
+    "estimated_hours": 35,
+    "skills_covered": [
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "FastAPI",
+      "SQL"
+    ],
+    "summary": "Full-featured web application offering skill benchmarking, dynamic roadmap generation, automated resume parsing, and interactive progress tracking.",
+    "steps": [
+      "Develop modern React UI with Tailwind CSS and responsive sidebar dashboard.",
+      "Implement TF-IDF & Cosine Similarity ML engine for matching profiles against career roles.",
+      "Integrate PDF text extraction and NLP token parsing for resume ingestion.",
+      "Add persistent progress tracking and real-time competency score recalculation."
+    ],
+    "resume_bullets": [
+      "Engineered a full-stack career guidance platform with React, FastAPI, and Scikit-Learn semantic matching.",
+      "Designed responsive dashboard with real-time donut charts and personalized 3-stage learning roadmaps."
+    ]
+  }
+]
